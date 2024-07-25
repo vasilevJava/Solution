@@ -8,5 +8,4 @@ public class Main {
     float f;
     double d;
     boolean g;
-    char c;
 }
