@@ -7,5 +7,4 @@ public class Main {
     long l;
     float f;
     double d;
-    boolean g;
 }
